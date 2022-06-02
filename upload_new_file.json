@@ -7,8 +7,7 @@
             {
                 "id": 1,
                 "time": "12: 35 AM",
-                "start": false,
-                "end": false,
+                "play_state": "playing",
                 "home_team": "Manchester Unite",
                 "home_team_url": "",
                 "away_team": "Liverpool",
@@ -36,8 +35,7 @@
             {
                 "id": 1,
                 "time": "12: 35 AM",
-                "start": false,
-                "end": false,
+                "play_state": "playing", // playing, game_over
                 "home_team": "Manchester Unite",
                 "home_team_url": "",
                 "away_team": "Liverpool",
