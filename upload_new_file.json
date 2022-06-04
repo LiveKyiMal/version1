@@ -7,7 +7,7 @@
             {
                 "id": 1,
                 "time": "12: 35 AM",
-                "play_state": "playing",
+                "play_state": "game_over",
                 "home_team": "Manchester Unite",
                 "home_team_url": "",
                 "away_team": "Liverpool",
