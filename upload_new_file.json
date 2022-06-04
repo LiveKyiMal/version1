@@ -16,13 +16,13 @@
                 "live_links": [
                     {
                         "id": 1,
-                        "name": "5 Plus SD",
-                        "url": "https://streammain.myanmartvchannels.com:999/website-5plus-stream992744/website-5plus-stream992744/chunks.m3u8?nimblesessionid=2165241&wmsAuthSign=c2VydmVyX3RpbWU9Ni8zLzIwMjIgMjozMDowNCBQTSZoYXNoX3ZhbHVlPVpuWUhnWGZ5bXNKR2V4Sk0wZ3l6dmc9PSZ2YWxpZG1pbnV0ZXM9MjUmc3RybV9sZW49NTM="
+                        "name": "Mahar",
+                        "url": "https://tv.mahar.live/mahar/website.stream/mahar/website1/chunks.m3u8"
                     },
                     {
                         "id": 2,
-                        "name": "Channel 9",
-                        "url": "https://streammain.myanmartvchannels.com:999/website-channel9-stream992745/website-channel9-stream992745/chunks.m3u8?nimblesessionid=2165250&wmsAuthSign=c2VydmVyX3RpbWU9Ni8zLzIwMjIgMjozNDoyOCBQTSZoYXNoX3ZhbHVlPXkrVlpFYzdyYi80Znp1OW10NFdGQ0E9PSZ2YWxpZG1pbnV0ZXM9MjUmc3RybV9sZW49NTk="
+                        "name": "MNTV",
+                        "url": "https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream_mobile/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni80LzIwMjIgMjozMDoxMiBBTSZoYXNoX3ZhbHVlPU9rL1pDbW5MU0pwRE5rVXg0QlVPOGc9PSZ2YWxpZG1pbnV0ZXM9MjUmc3RybV9sZW49Mjg="
                     }
                 ]
             }
@@ -45,13 +45,13 @@
                 "live_links": [
                     {
                         "id": 1,
-                        "name": "Link 1",
-                        "url": ""
+                        "name": "Mahar",
+                        "url": "https://tv.mahar.live/mahar/website.stream/mahar/website1/chunks.m3u8"
                     },
                     {
                         "id": 2,
-                        "name": "Link 1",
-                        "url": ""
+                        "name": "MNTV",
+                        "url": "https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream_mobile/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni80LzIwMjIgMjozMDoxMiBBTSZoYXNoX3ZhbHVlPU9rL1pDbW5MU0pwRE5rVXg0QlVPOGc9PSZ2YWxpZG1pbnV0ZXM9MjUmc3RybV9sZW49Mjg="
                     }
                 ]
             }
